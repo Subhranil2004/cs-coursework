@@ -1,3 +1,5 @@
+> In Linux Environment
+
 ## Assignment 1: Stream Socket
 
 1. Write a program for a time server. The time server informs the current time to the client when the server gets a request from a client. Also, write the client program.
@@ -15,11 +17,9 @@
 
 ## Assignment 2: Concurrent Servers
 
-1. What is the utility of concurrent servers? Discuss two different ways of creating concurrent servers.
+1. Write a concurrent version of the server from Q3 of Assignment 1 (lover-hater server) by forking a child per client. Show the requesting client's ID and the serving child's PID. Point out its advantage compared to the previous version.
 
-2. Write a concurrent version of the server from Q3 of Assignment 1 (lover-hater server) by forking a child per client. Show the requesting client's ID and the serving child's PID. Point out its advantage compared to the previous version.
-
-3. Write the above program using threads.
+2. Write the above program using threads.
 
 ---
 
