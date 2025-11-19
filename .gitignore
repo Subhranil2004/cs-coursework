@@ -1,0 +1,2 @@
+# Ignore all a.exe files anywhere in the repository (including subfolders)
+**/a.exe
